@@ -5,15 +5,6 @@
 <link rel="stylesheet" href="style.css" media="all" type="text/css" />
 </head>
 <body>
-<div id="header">
-  <ul>
-    <li><a href="http://all-free-download.com/free-website-templates/">Home</a></li>
-    <li><a href="http://all-free-download.com/free-website-templates/">About</a></li>
-    <li><a href="http://all-free-download.com/free-website-templates/">Domain</a></li>
-    <li><a href="http://all-free-download.com/free-website-templates/">Visitor</a></li>
-    <li><a href="http://all-free-download.com/free-website-templates/">Links</a></li>
-  </ul>
-</div>
 <div id="content">
   <h1>Мнението ми за бирата</h1>
   <h2>Subtitle of Some Sort (remove if you wish)</h2>
