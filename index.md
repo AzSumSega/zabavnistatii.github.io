@@ -12,18 +12,6 @@
   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque ut nibh a sapien accumsan sollicitudin. Nam aliquam, velit quis scelerisque consectetuer, est massa sodales augue, id feugiat felis odio a orci. Praesent commodo sapien vel lectus. Donec lacinia lorem sit amet ipsum. Suspendisse ante ligula, condimentum et, blandit et, rutrum eu, metus. Aenean quis metus. Nunc ultrices, augue vitae porttitor lacinia, arcu metus luctus nibh, sed volutpat tortor risus non quam. <a href="http://all-free-download.com/free-website-templates/">Quisque ultricies molestie enim</a>. Quisque ac velit. Morbi ultrices malesuada elit. Aenean vulputate, massa quis egestas nonummy, eros metus gravida odio, vitae pretium risus lectus eu metus. Donec consectetuer. Suspendisse et ante id quam sagittis luctus. Cras scelerisque. Etiam rutrum. In vehicula nisl condimentum est. Mauris consequat pede a diam. Donec mattis massa ut mauris.</p>
   <p>An image:</p>
   <img src="sample.jpg" alt="sample.jpg" />
-  <p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus lacus dolor, viverra vitae, vehicula ut, rhoncus vitae, pede. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc dolor pede, varius ut, vestibulum faucibus, venenatis at, erat. Nunc feugiat tincidunt mauris. Nunc imperdiet. Pellentesque augue est, interdum eget, mollis id, interdum quis, lacus. Integer mauris turpis, iaculis ut, hendrerit vitae, pellentesque sit amet, pede. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut eget eros nec justo consectetuer aliquam. Integer sagittis. In rhoncus viverra nisl. Vestibulum quis odio. Aenean eu diam. Curabitur vel nunc.</p>
-  <p>Unordered list:</p>
-  <ul>
-    <li>Donec volutpat ligula id nisi.</li>
-    <li>Quisque hendrerit condimentum justo.</li>
-    <li>Nullam bibendum suscipit leo.</li>
-    <li>Sed vestibulum felis et libero.</li>
-  </ul>
-  <p>A quote:</p>
-  <blockquote>
-    <p>Ut orci. Fusce condimentum tincidunt urna. Phasellus scelerisque, pede sit amet vehicula scelerisque, augue lacus volutpat tortor, ut tempus velit ligula sed urna. Donec eget justo. Quisque eget eros vel magna ultricies vehicula. Donec nonummy pretium ipsum. Praesent arcu sem, posuere ac, vestibulum quis, tincidunt sed, ante. Aliquam ligula nisl, ultrices ut, faucibus nec, pretium id, mi. Curabitur molestie malesuada lorem. In pulvinar, risus vel blandit sollicitudin, libero elit tempus nulla, vitae faucibus urna dolor et mauris. Duis erat. Cras volutpat pellentesque nisl. Phasellus venenatis velit quis ipsum. Curabitur eleifend, risus vel sollicitudin ornare, velit mi egestas mi, sed placerat tortor odio ut turpis.</p>
-  </blockquote>
 </div>
 <div id="footer">design by <a href="http://one-am.net/">karen</a> / &copy; your name</div>
 
