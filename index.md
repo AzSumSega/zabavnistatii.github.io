@@ -36,5 +36,4 @@
   </blockquote>
 </div>
 <div id="footer">design by <a href="http://one-am.net/">karen</a> / &copy; your name</div>
-</html>
 
