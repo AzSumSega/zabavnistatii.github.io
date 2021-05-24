@@ -15,7 +15,7 @@
   </ul>
 </div>
 <div id="content">
-  <h1>Home</h1>
+  <h1>Мнението ми за бирата</h1>
   <h2>Subtitle of Some Sort (remove if you wish)</h2>
   <p><strong>You are free to change or tweak the layout, meeting your needs and tastes. Keeping the credit isn't mandatory either, but it's nice.</strong></p>
   <p><strong>There's supposed to be a body background. If it doesn't show, go to my website to see the original layout.</strong></p>
