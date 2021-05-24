@@ -7,7 +7,6 @@
 <body>
 <div id="content">
   <h1>Мнението ми за бирата</h1>
-  <h2>Subtitle of Some Sort (remove if you wish)</h2>
   <p><strong>You are free to change or tweak the layout, meeting your needs and tastes. Keeping the credit isn't mandatory either, but it's nice.</strong></p>
   <p><strong>There's supposed to be a body background. If it doesn't show, go to my website to see the original layout.</strong></p>
   <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Pellentesque ut nibh a sapien accumsan sollicitudin. Nam aliquam, velit quis scelerisque consectetuer, est massa sodales augue, id feugiat felis odio a orci. Praesent commodo sapien vel lectus. Donec lacinia lorem sit amet ipsum. Suspendisse ante ligula, condimentum et, blandit et, rutrum eu, metus. Aenean quis metus. Nunc ultrices, augue vitae porttitor lacinia, arcu metus luctus nibh, sed volutpat tortor risus non quam. <a href="http://all-free-download.com/free-website-templates/">Quisque ultricies molestie enim</a>. Quisque ac velit. Morbi ultrices malesuada elit. Aenean vulputate, massa quis egestas nonummy, eros metus gravida odio, vitae pretium risus lectus eu metus. Donec consectetuer. Suspendisse et ante id quam sagittis luctus. Cras scelerisque. Etiam rutrum. In vehicula nisl condimentum est. Mauris consequat pede a diam. Donec mattis massa ut mauris.</p>
