@@ -1,6 +1,5 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<title>Clouds Up</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="style.css" media="all" type="text/css" />
 </head>
@@ -13,5 +12,4 @@
   <p>An image:</p>
   <img src="sample.jpg" alt="sample.jpg" />
 </div>
-<div id="footer">design by <a href="http://one-am.net/">karen</a> / &copy; your name</div>
 
